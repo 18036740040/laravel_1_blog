@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - laravel_1@localhost" uuid="644a1fe9-b732-40db-b4dd-813e66d592c1">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>laravel_1.*</schema-pattern>
+      <default-schemas>laravel_1.*</default-schemas>
+    </data-source>
+  </component>
+</project>
